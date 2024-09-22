@@ -42,7 +42,7 @@ document.getElementById('login_button').addEventListener('click',function(event)
         
         if(phoneNumber==='5'&& pinNumber==='1234'){
         console.log('yopu are log in');
-        window.location.href= '/home.html'
+        window.location.href= '/home.html';
 
         }
         else{
